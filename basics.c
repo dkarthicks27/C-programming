@@ -5,6 +5,9 @@
 
 int main()
 {
-	printf("Hello world\n");
-	return 0;
+	int age;
+	printf("Enter your age: \n");
+	scanf("%d", age);
+	printf("Your age is: %d", age);
+	return 200;
 }
