@@ -1,0 +1,21 @@
+1) chapter 12 - The C Preprocessor
+2) Console Input/Output
+2a) Time complexity and space complexity
+3) Data Types and variables
+4) Conditionals - if, switch case
+5) loops - for, while, do while
+6) Array - basic concepts
+7) Pointers - Address
+8) Strings - basic
+9) Multidimensional arrays
+10) String Functions
+11) Struct and User defined data Types
+12) Linked List
+13) Doubly linked List
+14) Circular linked List
+15) Tree, Graphs (optional)
+16) 
+
+
+
+[ ]  ==>  [ ] ==> [ ]  ==>  [ ]
